@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\raju\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\raju\Downloads\WakeMeThere-master (2)\WakeMeThere-master\WakeMeThere-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_c1367e61af19e8446afff130c8cc9ad97c300546.jar" />
+    </item>
+    <item
+        jar="C:\Users\raju\Downloads\WakeMeThere-master (2)\WakeMeThere-master\WakeMeThere-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\raju\Downloads\WakeMeThere-master (2)\WakeMeThere-master\WakeMeThere-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-6.5.87_c9ce26795902addbe99dc7d8d4011331bdc71dfc.jar" />
+    </item>
+    <item
+        jar="C:\Users\raju\Downloads\WakeMeThere-master (2)\WakeMeThere-master\WakeMeThere-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\raju\Downloads\WakeMeThere-master (2)\WakeMeThere-master\WakeMeThere-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_eb3196362f278ef0fabb0831d2540701c6b92c2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\raju\Downloads\WakeMeThere-master (2)\WakeMeThere-master\WakeMeThere-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\raju\Downloads\WakeMeThere-master (2)\WakeMeThere-master\WakeMeThere-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_121f56f30389e571370e873c05574113d0f7c80a.jar" />
+    </item>
+    <item
+        jar="C:\Users\raju\Downloads\WakeMeThere-master (2)\WakeMeThere-master\WakeMeThere-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\raju\Downloads\WakeMeThere-master (2)\WakeMeThere-master\WakeMeThere-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_fdf928792291712f292752ed08c771cd04a15fde.jar" />
+    </item>
+
+</items>

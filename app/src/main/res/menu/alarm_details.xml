@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:title="action_save_alarm_details"
+    android:id="@+id/action_save_alarm_details"
+    android:orderInCategory="100"
+    android:icon="@drawable/action_save"
+    app:showAsAction="always"/>
+
+</menu>
